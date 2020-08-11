@@ -1,2 +1,1 @@
-# CSES_ProblemSets
-C++ Solutions of CSES Problem Set
+Just an example to learn MERN Stack.
